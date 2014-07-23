@@ -30,6 +30,10 @@ H3 - a perl binding for h3
 
 H3 is a perl binding for h3.
 
+# INSTALL
+
+    > cpanm https://github.com/shoichikaji/h3.git
+
 # SEE ALSO
 
 [https://github.com/c9s/h3](https://github.com/c9s/h3)
