@@ -1,0 +1,6 @@
+[submodule "h3"]
+	path = h3
+	url = https://github.com/c9s/h3.git
+[submodule "libh3"]
+	path = libh3
+	url = https://github.com/c9s/h3.git

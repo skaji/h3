@@ -1,0 +1,41 @@
+{
+   "abstract" : "a perl binding for h3",
+   "author" : [
+      "Shoichi Kaji <skaji@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Template/0.01",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : 2
+   },
+   "name" : "H3",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "xt",
+         "inc",
+         "eg",
+         "example",
+         "author"
+      ]
+   },
+   "prereqs" : {
+      "runtime" : {
+         "requires" : {
+            "perl" : "5.008005"
+         }
+      },
+      "test" : {
+         "requires" : {
+            "Test::More" : "0.98",
+            "Test::Requires" : "0"
+         }
+      }
+   },
+   "release_status" : "unstable",
+   "version" : "0.01"
+}
